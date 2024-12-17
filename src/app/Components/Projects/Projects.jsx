@@ -25,7 +25,7 @@ const projectsData = [
       title: "Next.js Portfolio Website",
       description: "A portfolio website is a unique platform that allows me to showcase my work and tell others about myself. It’s like an online business card or CV that can help me find partnerships, show off my work, and even land my first job.",
       image: "/images/projects/3.png",
-      gitUrl: "https://github.com/AhmedAbbas88/my-portfolio",
+      gitUrl: "https://github.com/AhmedAbbas88/portfolio",
       previewUrl: "/",
     },
     
