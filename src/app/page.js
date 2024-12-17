@@ -1,5 +1,4 @@
 import Image from "next/image";
-import '@fortawesome/fontawesome-free/css/all.min.css'
 
 import HeroSection from "./Components/HeroSection/HeroSection";
 import Navbar from "./Components/Navbar/Navbar";
