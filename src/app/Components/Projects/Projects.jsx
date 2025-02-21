@@ -28,6 +28,14 @@ const projectsData = [
       gitUrl: "https://github.com/AhmedAbbas88/portfolio",
       previewUrl: "/",
     },
+    {
+      id: 4,
+      title: "Homyz Real Estate Website",
+      description: "A new real estate project I developed using React.js and CSS.This project aims to make the process of searching, buying, and selling real estate easier, and provide a smooth and efficient user experience.",
+      image: "/images/projects/4.png",
+      gitUrl: "https://github.com/AhmedAbbas88/homz",
+      previewUrl: "https://ahmedabbas88.github.io/homz/",
+    },
     
   ];
   
